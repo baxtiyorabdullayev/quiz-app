@@ -1,0 +1,31 @@
+.quiz {
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #8b9da5c6;
+}
+
+h4 {
+  margin-bottom: 5px;
+  color: #1e1e1e;
+}
+
+label {
+  display: inline;
+  cursor: help;
+  margin: 10px;
+  display: block;
+}
+
+label:hover {
+  background-color: #9da6ac;
+}
+
+.okBtn {
+  padding: 3px 30px;
+  color: #1e1e1e;
+  font-weight: 500;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

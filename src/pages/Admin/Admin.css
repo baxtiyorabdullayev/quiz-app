@@ -1,0 +1,26 @@
+.searchInput {
+  text-align: center;
+}
+.searchInput input {
+  padding: 5px 15px;
+  width: 80%;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+}
+
+.showQuestions {
+  margin: 15px 0 5px 0;
+  padding: 15px;
+  height: 450px;
+  border-radius: 10px 10px 0 0;
+  background-color: #8b9da59a;
+
+  overflow-y: auto;
+}
+
+.addQuiz {
+  padding: 7px 20px;
+  border-radius: 0 0 10px 10px;
+  background-color: #8b9da59a;
+}

@@ -1,0 +1,15 @@
+.adminQuizs {
+  margin: 5px;
+  padding: 7px 20px;
+  border-radius: 5px;
+  background-color: #b9c4c9;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.editBtn,
+.deleteBtn {
+  margin: 5px;
+  cursor: pointer;
+}

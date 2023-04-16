@@ -1,0 +1,31 @@
+nav {
+  padding-right: 10px;
+  background-color: #8b9da59a;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.menus {
+  padding: 10px;
+  display: inline-block;
+  background-color: #1e1e1e;
+  border-radius: 10px;
+}
+
+.link {
+  margin: 0 15px;
+  font-size: 18px;
+  font-weight: 500;
+  text-decoration: none;
+  color: #7f7f7e;
+}
+
+.alerts {
+  padding: 5px;
+  display: inline-block;
+  color: #ffffff;
+}
+
+.active {
+  color: #cccccc;
+}
